@@ -36,7 +36,7 @@ Esses princípios e poderes são essenciais para garantir que a Administração 
 ### Conceito
 Os atos administrativos são manifestações unilaterais da vontade da Administração Pública que têm por finalidade produzir efeitos jurídicos, criando, modificando, extinguindo ou declarando direitos e obrigações no âmbito administrativo. Eles são instrumentos utilizados pela Administração para a execução de suas funções e para a concretização do interesse público.
 
-#### Características
+### Características
 Os atos administrativos possuem características próprias que os distinguem de outros atos jurídicos. As principais características são:
 
 1. **Unilateralidade**: São emitidos exclusivamente pela vontade da Administração Pública, sem necessidade de concordância do particular.
@@ -488,7 +488,7 @@ A redação oficial é um tipo de escrita utilizada no âmbito governamental e i
 
 A redação oficial, portanto, é pautada por princípios que visam garantir que a comunicação entre órgãos públicos e entre estes e os cidadãos seja eficiente, clara e respeitosa. A clareza assegura que a mensagem seja compreensível; a objetividade, que a informação seja direta e imparcial; a concisão, que o texto seja enxuto e eficaz; e a formalidade, que o respeito e a seriedade sejam mantidos. Esses princípios são fundamentais para a credibilidade e a eficiência da comunicação oficial.
 
-## Linguagem
+# Linguagem
 
 Na redação oficial, a linguagem utilizada é crucial para garantir a eficácia e a credibilidade da comunicação. Três aspectos fundamentais da linguagem são a norma culta, a precisão e a impessoalidade. A seguir, explicamos cada um desses aspectos:
 
@@ -581,7 +581,7 @@ A digitação qualitativa em documentos oficiais é essencial para garantir a ap
 
 A digitação qualitativa em documentos oficiais requer atenção às normas de formatação que asseguram a legibilidade, a uniformidade e a formalidade do texto. Seguir recomendações sobre margens, espaçamento, fonte, estrutura do documento e elementos específicos como títulos, listas e citações é essencial para a produção de documentos claros, organizados e profissionais. A observância dessas normas não só melhora a aparência do documento, mas também facilita sua compreensão e uso.
 
-## Formas e Pronomes de Tratamento
+# Formas e Pronomes de Tratamento
 
 Na redação oficial, a utilização correta das formas e dos pronomes de tratamento é crucial para manter a formalidade, o respeito e a clareza na comunicação entre diferentes autoridades, órgãos públicos e cidadãos. A seguir, explicamos a correta utilização das formas e dos pronomes de tratamento mais comuns.
 
@@ -711,7 +711,7 @@ Os fechos em documentos oficiais são as expressões utilizadas para encerrar a 
 
 Os fechos são uma parte essencial da redação oficial, contribuindo para a formalidade e o respeito necessários nas comunicações institucionais. Escolher o fecho adequado conforme o destinatário e o contexto da comunicação é fundamental para manter a etiqueta e a eficiência na troca de informações. O uso correto dos fechos ajuda a refletir o profissionalismo e a deferência apropriados em cada situação.
 
-## Identificação do Signatário
+# Identificação do Signatário
 
 A identificação do signatário em documentos oficiais é um elemento crucial para a autenticidade e a clareza do documento. Ela permite que o destinatário saiba exatamente quem está emitindo a comunicação e sua posição ou função dentro da organização. A seguir, explicamos os elementos necessários para a identificação do signatário.
 
@@ -950,7 +950,7 @@ Os elementos de ortografia e gramática são fundamentais na redação oficial, 
 
 Os elementos de ortografia e gramática são vitais para a redação oficial, assegurando a clareza, a formalidade e a precisão do texto. Seguir as regras de ortografia conforme o acordo vigente, garantir a concordância verbal e nominal, usar corretamente a pontuação, a crase e a colocação pronominal são práticas essenciais. A revisão cuidadosa e a manutenção da consistência ao longo do documento reforçam a qualidade e a eficácia da comunicação oficial.
 
-## Padrão Ofício, Fax, Correio Eletrônico
+# Padrão Ofício, Fax, Correio Eletrônico
 
 A redação oficial inclui diversos formatos de comunicação, cada um com suas próprias regras de estrutura e formatação: ofício, fax e correio eletrônico (e-mail). Abaixo, explicamos a estrutura e a formatação adequadas para cada um desses meios.
 
