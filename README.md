@@ -33,7 +33,7 @@ Esses princípios e poderes são essenciais para garantir que a Administração 
 
 # Atos Administrativos
 
-#### Conceito
+### Conceito
 Os atos administrativos são manifestações unilaterais da vontade da Administração Pública que têm por finalidade produzir efeitos jurídicos, criando, modificando, extinguindo ou declarando direitos e obrigações no âmbito administrativo. Eles são instrumentos utilizados pela Administração para a execução de suas funções e para a concretização do interesse público.
 
 #### Características
@@ -49,7 +49,7 @@ Os atos administrativos possuem características próprias que os distinguem de 
 
 5. **Tipicidade**: Devem ser praticados conforme as formas previstas em lei, respeitando os procedimentos e formalidades legais.
 
-#### Classificação
+### Classificação
 Os atos administrativos podem ser classificados de diversas maneiras:
 
 1. **Quanto à Natureza**:
@@ -68,7 +68,7 @@ Os atos administrativos podem ser classificados de diversas maneiras:
    - **Atos Orais**: Em situações específicas e excepcionais, podem ser praticados oralmente.
    - **Atos Gestuais**: Realizados por meio de gestos, como sinais de trânsito.
 
-#### Requisitos
+### Requisitos
 Para que um ato administrativo seja válido, ele deve atender a certos requisitos (ou elementos), conforme estabelecido pela doutrina. Esses requisitos são:
 
 1. **Competência**: O ato deve ser praticado por autoridade competente.
@@ -81,14 +81,14 @@ Para que um ato administrativo seja válido, ele deve atender a certos requisito
    
 5. **Objeto**: O conteúdo do ato deve ser lícito, possível, determinado ou determinável.
 
-#### Validade
+### Validade
 A validade dos atos administrativos refere-se à conformidade desses atos com a lei. Um ato administrativo válido deve atender a todos os requisitos acima mencionados. Se qualquer um desses elementos estiver em desacordo com a lei, o ato poderá ser considerado nulo ou anulável:
 
 1. **Nulidade**: O ato é inválido desde a sua origem e não produz efeitos jurídicos.
    
 2. **Anulabilidade**: O ato tem eficácia até que seja declarado nulo pela própria Administração ou pelo Judiciário.
 
-#### Eficácia
+### Eficácia
 A eficácia dos atos administrativos diz respeito à capacidade do ato de produzir efeitos jurídicos. Um ato administrativo pode ser válido, mas não eficaz, se não estiver apto a produzir os efeitos desejados. A eficácia está ligada a:
 
 1. **Produção de Efeitos**: O momento em que o ato começa a produzir efeitos jurídicos.
@@ -101,13 +101,13 @@ A compreensão dos atos administrativos e seus aspectos é fundamental para gara
 
 # Processo e Procedimento Administrativo
 
-#### Definições
+### Definições
 
 **Processo Administrativo**: O processo administrativo é um conjunto ordenado de atos e formalidades realizados pela Administração Pública, que visa à tomada de uma decisão que afetará direitos e deveres dos administrados. Trata-se de um meio de instrumentalização da função administrativa, garantindo a legalidade, a eficiência e a transparência das decisões públicas.
 
 **Procedimento Administrativo**: O procedimento administrativo é a sequência de atos que compõem o processo administrativo. Ele envolve todas as etapas desde a instauração até a conclusão do processo, com a emissão de uma decisão final. É a maneira como o processo se desenvolve no tempo e no espaço, estabelecendo a forma pela qual a Administração deve atuar.
 
-#### Fases
+### Fases
 
 O processo administrativo geralmente se divide em várias fases distintas, que podem variar conforme a natureza do processo e a legislação aplicável. As fases típicas de um processo administrativo são:
 
@@ -142,7 +142,7 @@ O processo administrativo geralmente se divide em várias fases distintas, que p
 8. **Execução**:
    - **Cumprimento**: Implementação das medidas decididas, como a execução de ordens, aplicação de sanções ou concessão de benefícios.
 
-#### Princípios
+### Princípios
 
 Os processos e procedimentos administrativos são regidos por vários princípios fundamentais, que garantem a legalidade e a legitimidade dos atos administrativos. Entre os principais, destacam-se:
 
@@ -170,10 +170,10 @@ A observância desses princípios e a correta condução das fases do processo a
 
 # Licitações
 
-#### Conceito
+### Conceito
 Licitação é o procedimento administrativo formal por meio do qual a Administração Pública seleciona a proposta mais vantajosa para a contratação de serviços, obras, compras, alienações e locações. A licitação visa garantir a isonomia entre os concorrentes, promover a seleção da proposta mais vantajosa para a Administração e assegurar a observância do princípio constitucional da impessoalidade, da moralidade e da eficiência.
 
-#### Princípios
+### Princípios
 
 Os princípios que regem o processo licitatório são fundamentais para assegurar a lisura, a transparência e a competitividade do procedimento. Os principais princípios são:
 
@@ -197,7 +197,7 @@ Os princípios que regem o processo licitatório são fundamentais para assegura
 
 10. **Sustentabilidade**: Devem ser consideradas práticas sustentáveis e de respeito ao meio ambiente nos critérios de julgamento e na execução dos contratos.
 
-#### Modalidades
+### Modalidades
 
 As modalidades de licitação são os tipos de procedimentos que a Administração Pública pode adotar para a contratação. As principais modalidades, conforme a Lei nº 14.133/2021 (Nova Lei de Licitações e Contratos Administrativos), são:
 
@@ -215,7 +215,7 @@ As modalidades de licitação são os tipos de procedimentos que a Administraç�
 
 7. **Diálogo Competitivo**: Modalidade aplicada em contratações de objetos inovadores ou de complexidade técnica, financeira ou jurídica significativa, onde há diálogo com os licitantes para desenvolver soluções capazes de atender às necessidades da Administração.
 
-#### Fases do Processo Licitatório
+### Fases do Processo Licitatório
 
 O processo licitatório é composto por várias fases, cada uma com suas peculiaridades e procedimentos específicos. As fases do processo licitatório são:
 
@@ -258,10 +258,10 @@ Essas fases são essenciais para assegurar a transparência, a competitividade e
 
 # Contratos Administrativos
 
-#### Conceito
+### Conceito
 Contratos administrativos são acordos firmados entre a Administração Pública e particulares, ou entre entidades públicas, visando à realização de interesses públicos. Esses contratos são regidos por normas de direito público e possuem cláusulas que garantem à Administração prerrogativas específicas, diferenciando-se dos contratos privados.
 
-#### Características
+### Características
 
 Os contratos administrativos possuem características próprias que os diferenciam dos contratos de direito privado:
 
@@ -275,7 +275,7 @@ Os contratos administrativos possuem características próprias que os diferenci
    
 5. **Fiscalização pela Administração**: A Administração tem o dever de fiscalizar a execução do contrato para assegurar a conformidade com as cláusulas pactuadas.
 
-#### Tipos
+### Tipos
 
 Os contratos administrativos podem ser classificados de acordo com seu objeto. Alguns dos principais tipos são:
 
@@ -291,7 +291,7 @@ Os contratos administrativos podem ser classificados de acordo com seu objeto. A
    
 6. **Contratos de Parceria Público-Privada (PPP)**: Contratos de longo prazo entre a Administração e a iniciativa privada para a realização de obras ou serviços de interesse público, com repartição de riscos.
 
-#### Execução
+### Execução
 
 A execução dos contratos administrativos envolve diversas etapas e requer a observância de princípios e normas específicas:
 
@@ -305,7 +305,7 @@ A execução dos contratos administrativos envolve diversas etapas e requer a ob
    
 5. **Recebimento do Objeto**: A Administração deve verificar e formalizar o recebimento do objeto do contrato, atestando a conformidade com as especificações pactuadas.
 
-#### Extinção
+### Extinção
 
 A extinção dos contratos administrativos pode ocorrer de diversas formas, dependendo das circunstâncias e do tipo de contrato. As principais formas de extinção são:
 
@@ -325,10 +325,10 @@ A execução e a extinção dos contratos administrativos devem sempre observar 
 
 # Serviços Públicos
 
-#### Conceito
+### Conceito
 Serviços públicos são atividades realizadas diretamente pelo Estado ou por seus delegados, que visam satisfazer necessidades essenciais ou de interesse coletivo da população. Eles são prestados sob a égide do direito público, garantindo o acesso universal e igualitário aos cidadãos, e são regidos por princípios como a continuidade, a eficiência, e a universalidade.
 
-#### Classificação
+### Classificação
 
 Os serviços públicos podem ser classificados de diversas formas, de acordo com sua natureza e características. As principais classificações são:
 
@@ -345,7 +345,7 @@ Os serviços públicos podem ser classificados de diversas formas, de acordo com
    - **Serviços Públicos Próprios**: Aqueles que, por sua natureza, são prestados exclusivamente pelo Estado (ex.: segurança pública, justiça).
    - **Serviços Públicos Delegados**: Aqueles que podem ser prestados por particulares mediante concessão, permissão ou autorização (ex.: coleta de lixo, transporte coletivo).
 
-#### Delegação
+### Delegação
 
 A delegação de serviços públicos ocorre quando o Estado transfere a execução de determinados serviços a entidades privadas, mantendo a titularidade e a regulação. As principais formas de delegação são:
 
@@ -357,7 +357,7 @@ A delegação de serviços públicos ocorre quando o Estado transfere a execuç�
 
 4. **Parcerias Público-Privadas (PPP)**: Contratos de longo prazo entre a Administração Pública e a iniciativa privada, onde há uma repartição de riscos e investimentos entre as partes. Podem ser na modalidade patrocinada (com pagamento de tarifas pelos usuários e contraprestação pública) ou administrativa (remunerada apenas pela Administração).
 
-#### Regulação
+### Regulação
 
 A regulação dos serviços públicos é essencial para garantir a qualidade, a eficiência e a continuidade dos serviços prestados, além de proteger os direitos dos usuários e assegurar o cumprimento das obrigações pelos prestadores. A regulação envolve:
 
@@ -377,11 +377,11 @@ A regulação eficiente dos serviços públicos é fundamental para garantir que
 
 # Servidores Públicos
 
-#### Conceito
+### Conceito
 
 Servidores públicos são indivíduos que ocupam cargos, empregos ou funções públicas na Administração Direta, Autárquica e Fundacional, a serviço da União, dos Estados, do Distrito Federal e dos Municípios. Eles podem ser estatutários (regidos por um estatuto próprio) ou celetistas (regidos pela Consolidação das Leis do Trabalho - CLT).
 
-#### Regime Jurídico
+### Regime Jurídico
 
 O regime jurídico dos servidores públicos refere-se ao conjunto de normas que disciplinam a relação de trabalho entre o servidor e a Administração Pública. No Brasil, os regimes jurídicos são:
 
@@ -389,7 +389,7 @@ O regime jurídico dos servidores públicos refere-se ao conjunto de normas que 
 
 2. **Regime Celetista**: Aplicado aos empregados públicos, regidos pela CLT, é utilizado por algumas empresas públicas e sociedades de economia mista. Apesar de serem funcionários públicos, seus direitos e deveres são regulados pela legislação trabalhista comum.
 
-#### Direitos e Deveres
+### Direitos e Deveres
 
 **Direitos dos Servidores Públicos**:
 
@@ -410,7 +410,7 @@ O regime jurídico dos servidores públicos refere-se ao conjunto de normas que 
 5. **Sigilo Profissional**: Dever de manter sigilo sobre assuntos da administração que exigem confidencialidade.
 6. **Zelo pelo Patrimônio Público**: Dever de cuidar do patrimônio público e utilizar os recursos públicos de forma eficiente.
 
-#### Responsabilidade
+### Responsabilidade
 
 Os servidores públicos podem ser responsabilizados de diversas formas por suas ações ou omissões no exercício de suas funções. As responsabilidades são classificadas como:
 
@@ -420,7 +420,7 @@ Os servidores públicos podem ser responsabilizados de diversas formas por suas 
    
 3. **Responsabilidade Administrativa**: Decorrente da violação de deveres funcionais previstos no estatuto ou regulamento. Pode resultar em sanções como advertência, suspensão, demissão, cassação de aposentadoria, entre outras.
 
-#### Previdência
+### Previdência
 
 A previdência dos servidores públicos é regulamentada por regimes próprios, diferentes do Regime Geral de Previdência Social (RGPS) aplicado aos trabalhadores da iniciativa privada. Os principais aspectos são:
 
@@ -529,13 +529,13 @@ Na redação oficial, a linguagem utilizada é crucial para garantir a eficácia
 
 A linguagem na redação oficial deve seguir a norma culta para garantir a correção gramatical e a formalidade, utilizar precisão para assegurar a clareza e a exatidão das informações, e manter a impessoalidade para preservar a objetividade e a neutralidade do documento. Esses aspectos são fundamentais para que a comunicação oficial seja eficaz, clara e respeitável.
 
-## Digitação Qualitativa
+# Digitação Qualitativa
 
 A digitação qualitativa em documentos oficiais é essencial para garantir a apresentação adequada, a legibilidade e a profissionalidade do texto. Seguir normas e recomendações específicas assegura que os documentos atendam aos padrões estabelecidos, contribuindo para a clareza e a eficiência da comunicação. A seguir, explicamos as principais normas e recomendações para uma digitação qualitativa:
 
 ### Normas e Recomendações
 
-#### Formatação Geral
+### Formatação Geral
 
 1. **Margens:**
    - **Superior e Inferior:** Geralmente, é recomendado que as margens superior e inferior tenham 2,5 cm.
@@ -549,7 +549,7 @@ A digitação qualitativa em documentos oficiais é essencial para garantir a ap
    - **Fonte:** Utilizar fontes padrão como Times New Roman, Arial ou Calibri, que são legíveis e formais.
    - **Tamanho:** O tamanho da fonte deve ser 12 para o corpo do texto. Títulos e subtítulos podem utilizar tamanhos maiores, como 14 ou 16, e negrito para destaque.
 
-#### Estrutura do Documento
+### Estrutura do Documento
 
 1. **Cabeçalho e Rodapé:**
    - **Cabeçalho:** Deve conter informações institucionais como nome da instituição, departamento e logotipo, quando aplicável.
@@ -563,7 +563,7 @@ A digitação qualitativa em documentos oficiais é essencial para garantir a ap
    - **Posição:** A numeração das páginas deve ser colocada no canto inferior direito ou no centro do rodapé.
    - **Formato:** Pode ser em números arábicos (1, 2, 3, etc.) e deve começar a partir da primeira página de texto, excluindo capa e sumário.
 
-#### Elementos Específicos
+### Elementos Específicos
 
 1. **Títulos e Subtítulos:**
    - **Destaque:** Utilizar negrito, sublinhado ou caixa alta para títulos e subtítulos, mantendo consistência ao longo do documento.
@@ -649,7 +649,7 @@ Na redação oficial, a utilização correta das formas e dos pronomes de tratam
 
 A correta utilização das formas e pronomes de tratamento na redação oficial é fundamental para assegurar a formalidade e o respeito nas comunicações institucionais. Conhecer os pronomes adequados para cada situação e seguir as normas de concordância e abreviação contribui para a clareza, a eficácia e a seriedade dos documentos oficiais.
 
-## Fechos
+# Fechos
 
 Os fechos em documentos oficiais são as expressões utilizadas para encerrar a comunicação, demonstrando respeito e formalidade. Eles variam conforme o destinatário e o grau de formalidade da comunicação. A seguir, explicamos os principais tipos de fechos e sua aplicação adequada conforme o destinatário.
 
@@ -677,31 +677,31 @@ Os fechos em documentos oficiais são as expressões utilizadas para encerrar a 
 
 ### Aplicação Conforme o Destinatário
 
-#### 1. Hierarquia Superior
+### 1. Hierarquia Superior
 
 - **Fecho:** "Respeitosamente,"
 - **Aplicação:** Utilizado ao escrever para superiores hierárquicos, como ministros, governadores, presidentes de instituições, reitores, ou qualquer autoridade de nível superior ao do remetente.
 - **Exemplo:** "Respeitosamente, [Nome do Remetente]"
 
-#### 2. Hierarquia Igual ou Inferior
+### 2. Hierarquia Igual ou Inferior
 
 - **Fecho:** "Atenciosamente,"
 - **Aplicação:** Usado ao escrever para colegas de mesmo nível hierárquico ou para subordinados, em situações formais de rotina.
 - **Exemplo:** "Atenciosamente, [Nome do Remetente]"
 
-#### 3. Entre Colegas de Mesmo Nível
+### 3. Entre Colegas de Mesmo Nível
 
 - **Fecho:** "Cordialmente,"
 - **Aplicação:** Adequado para comunicações entre colegas de trabalho ou departamentos, mantendo um tom formal mas amigável.
 - **Exemplo:** "Cordialmente, [Nome do Remetente]"
 
-#### 4. Situações Diplomáticas ou com Cumprimentos
+### 4. Situações Diplomáticas ou com Cumprimentos
 
 - **Fecho:** "Com os melhores cumprimentos,"
 - **Aplicação:** Em comunicações formais que, além da formalidade, exigem um toque de cordialidade, como correspondências diplomáticas ou entre altos executivos.
 - **Exemplo:** "Com os melhores cumprimentos, [Nome do Remetente]"
 
-#### 5. Comunicações Menos Formais
+### 5. Comunicações Menos Formais
 
 - **Fecho:** "Sinceramente,"
 - **Aplicação:** Em comunicações que, embora oficiais, permitem um tom mais pessoal e menos rígido, como em mensagens de agradecimento ou reconhecimento.
@@ -782,7 +782,7 @@ Departamento de Recursos Humanos
 
 A identificação do signatário em documentos oficiais deve ser completa e clara, incluindo o nome completo, cargo ou função, departamento ou setor, assinatura, e local e data. Esses elementos são fundamentais para a autenticidade, formalidade e eficácia da comunicação oficial. A correta identificação assegura que o destinatário tenha todas as informações necessárias sobre o emissor do documento, conferindo-lhe legitimidade e responsabilidade.
 
-## Expressões e Vocábulos Latinos de Uso Frequente
+# Expressões e Vocábulos Latinos de Uso Frequente
 
 No âmbito da redação oficial e jurídica, o uso de expressões e vocábulos latinos é frequente devido à sua precisão, tradição e universalidade. Esses termos ajudam a transmitir conceitos de maneira concisa e são amplamente reconhecidos no meio jurídico e administrativo. A seguir, explicamos algumas das expressões latinas mais comuns e seu uso.
 
@@ -867,7 +867,7 @@ No âmbito da redação oficial e jurídica, o uso de expressões e vocábulos l
 
 As expressões e vocábulos latinos são amplamente utilizados na redação oficial e jurídica devido à sua precisão e tradição. Compreender e utilizar corretamente esses termos pode conferir clareza e autoridade aos documentos oficiais, além de facilitar a comunicação em contextos formais e técnicos.
 
-## Elementos de Ortografia e Gramática
+# Elementos de Ortografia e Gramática
 
 Os elementos de ortografia e gramática são fundamentais na redação oficial, garantindo a clareza, a formalidade e a precisão da comunicação. A seguir, explicamos alguns dos principais aspectos que devem ser observados para assegurar a correção e a qualidade dos documentos.
 
@@ -1114,7 +1114,7 @@ O e-mail é amplamente utilizado para comunicações oficiais devido à sua rapi
 
 Cada tipo de comunicação oficial—ofício, fax e e-mail—tem uma estrutura e formatação específica que assegura a formalidade, clareza e eficácia da mensagem. Seguir essas diretrizes é essencial para manter a profissionalidade e a eficiência na comunicação institucional.
 
-## Documentos
+# Documentos
 
 ### Documentos: Conceitos e Definições
 
@@ -1212,7 +1212,7 @@ A diagramação se refere à disposição visual dos elementos no documento:
 
 ### Exemplos Práticos de Estrutura e Formatação
 
-#### Ofício
+### Ofício
 
 ```
 [Logotipo]
@@ -1243,7 +1243,7 @@ João da Silva Pereira
 Diretor de Recursos Humanos
 ```
 
-#### E-mail
+### E-mail
 
 ```
 Assunto: Solicitação de Documentos
@@ -1265,14 +1265,14 @@ Email: joao.pereira@educacao.gov.br
 
 A clareza, organização e padronização são essenciais para a criação de documentos eficazes. Seguir as normas de estrutura, formatação, e diagramação garante a formalidade e a profissionalidade nas comunicações oficiais.
 
-## Documentação e Arquivo
+# Documentação e Arquivo
 
 ### Documentação e Arquivo: Noções sobre Escrituração de Livros Contábeis
 
-#### Introdução
+### Introdução
 A escrituração de livros contábeis é um processo fundamental para a gestão financeira e a conformidade legal das empresas. Envolve a documentação detalhada de todas as transações financeiras realizadas por uma entidade, garantindo a transparência, a precisão e a rastreabilidade das informações contábeis.
 
-#### Noções Básicas
+### Noções Básicas
 
 1. **Documentação e Arquivo:**
    - **Documentação:** Refere-se ao registro detalhado de todas as transações financeiras através de documentos comprobatórios como notas fiscais, recibos, contratos, etc. Esses documentos são a base para a escrituração.
@@ -1284,7 +1284,7 @@ A escrituração de livros contábeis é um processo fundamental para a gestão 
      - **Razão:** Detalha as movimentações em contas específicas, permitindo uma visão mais clara do impacto das transações em cada conta.
      - **Livros auxiliares:** Podem incluir o Livro Caixa, Livro de Inventário, entre outros, conforme a necessidade da empresa e exigências legais.
 
-#### Regras e Procedimentos
+### Regras e Procedimentos
 
 1. **Regras:**
    - **Legalidade:** A escrituração deve estar em conformidade com a legislação vigente, incluindo o Código Civil, a Lei das Sociedades por Ações e normas emitidas pelo Conselho Federal de Contabilidade (CFC).
@@ -1299,7 +1299,7 @@ A escrituração de livros contábeis é um processo fundamental para a gestão 
    - **Revisão e Auditoria:** Realizar revisões regulares e auditorias internas e externas para assegurar a exatidão e integridade dos registros contábeis.
    - **Backup e Segurança:** Manter backups regulares dos registros contábeis eletrônicos e garantir a segurança física dos documentos em papel.
 
-#### Importância
+### Importância
 - **Transparência e Confiabilidade:** Proporciona uma visão clara e precisa da situação financeira da empresa, essencial para a tomada de decisões estratégicas.
 - **Conformidade Legal:** Assegura que a empresa esteja em conformidade com as exigências legais e regulatórias.
 - **Prevenção de Fraudes:** Facilita a identificação e prevenção de fraudes e erros através de auditorias e controles internos.
